@@ -1,0 +1,9 @@
+{
+  "id": "rwp-imagify",
+  "name": "Imagify Image Optimization",
+  "version": "1.0.0",
+  "author": "rwpclient",
+  "description": "Image optimization in 1‑click: compress, resize & convert to WebP/AVIF – free up to 20MB/month. Enjoy the easiest WordPress image optimizer to set up.",
+  "entry": "./index.tsx",
+  "license": "GPL-2.0-or-later"
+}
